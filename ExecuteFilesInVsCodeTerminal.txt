@@ -1,0 +1,6 @@
+step 0:  
+        g++ filename.cpp 
+step 1: 
+        g++ filename.cpp  -o filename.exe
+step 2:
+        ./filename
