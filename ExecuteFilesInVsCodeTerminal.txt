@@ -4,3 +4,10 @@ step 1:
         g++ filename.cpp  -o filename.exe
 step 2:
         ./filename
+
+
+
+git branch -m Dev-Cpp dev-cpp
+git fetch origin
+git branch -u origin/dev-cpp dev-cpp
+git remote set-head origin -a
