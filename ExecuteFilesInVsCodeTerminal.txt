@@ -6,8 +6,4 @@ step 2:
         ./filename
 
 
-
-git branch -m Dev-Cpp dev-cpp
-git fetch origin
-git branch -u origin/dev-cpp dev-cpp
-git remote set-head origin -a
+Main branch :dev-cpp
